@@ -1,8 +1,8 @@
-# Air Quality Analysis
+**Air Quality Analysis**
 
 This project involves analyzing air quality data and visualizing various insights, including the seasonal air quality index (AQI), pollutant correlations, and AQI trends over time. The analysis is performed using Python libraries such as `pandas`, `matplotlib`, and `seaborn`.
 
-## Requirements
+** Requirements**
 
 To run this analysis, you need the following Python libraries:
 
@@ -71,7 +71,7 @@ For any questions or inquiries, please contact [Kalyan Ram Sola/kalyanramsola@gm
 vbnet
 Copy code
 
-### How to Customize
+ How to Customize
 
 - If you want to further customize the analysis, you can update the `numeric_cols` and `pollutant_cols` lists to include other pollutant columns from the dataset.
 - The `file_path` should be adjusted if the dataset is stored elsewhere, either locally or on cloud storage.
